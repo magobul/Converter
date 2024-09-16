@@ -1,0 +1,14 @@
+E:\миша\peregruzka\bin\Debug\net8.0\peregruzka.exe
+E:\миша\peregruzka\bin\Debug\net8.0\peregruzka.deps.json
+E:\миша\peregruzka\bin\Debug\net8.0\peregruzka.runtimeconfig.json
+E:\миша\peregruzka\bin\Debug\net8.0\peregruzka.dll
+E:\миша\peregruzka\bin\Debug\net8.0\peregruzka.pdb
+E:\миша\peregruzka\obj\Debug\net8.0\peregruzka.GeneratedMSBuildEditorConfig.editorconfig
+E:\миша\peregruzka\obj\Debug\net8.0\peregruzka.AssemblyInfoInputs.cache
+E:\миша\peregruzka\obj\Debug\net8.0\peregruzka.AssemblyInfo.cs
+E:\миша\peregruzka\obj\Debug\net8.0\peregruzka.csproj.CoreCompileInputs.cache
+E:\миша\peregruzka\obj\Debug\net8.0\peregruzka.dll
+E:\миша\peregruzka\obj\Debug\net8.0\refint\peregruzka.dll
+E:\миша\peregruzka\obj\Debug\net8.0\peregruzka.pdb
+E:\миша\peregruzka\obj\Debug\net8.0\peregruzka.genruntimeconfig.cache
+E:\миша\peregruzka\obj\Debug\net8.0\ref\peregruzka.dll
